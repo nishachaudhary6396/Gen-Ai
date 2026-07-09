@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-community
+langgraph
+langchain-google-genai
+langchain-cohere
+python-dotenv
+faiss-cpu
+tiktoken
+fastapi
+uvicorn
+requests
+langchain_huggingface
