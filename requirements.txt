@@ -4,10 +4,11 @@ langchain-community
 langgraph
 langchain-google-genai
 langchain-cohere
+langchain-mistralai
+langchain_huggingface
 python-dotenv
 faiss-cpu
 tiktoken
 fastapi
 uvicorn
 requests
-langchain_huggingface
